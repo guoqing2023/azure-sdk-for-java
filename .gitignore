@@ -121,3 +121,5 @@ stress-test-addons*
 
 # Temp typespec files
 TempTypeSpecFiles/
+
+session-records/
