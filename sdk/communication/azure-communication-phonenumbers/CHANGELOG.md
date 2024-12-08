@@ -4,23 +4,7 @@
 
 ### Features Added
 
-Update version to 1.2.0
-
-### Breaking Changes
-
-N/A
-
-### Bugs Fixed
-
-N/A
-
-### Other Changes
-
-N/A
-
-## 1.2.0-beta.4 (Unreleased)
-
-### Features Added
+- Update version to 1.2.0
 
 ### Breaking Changes
 
